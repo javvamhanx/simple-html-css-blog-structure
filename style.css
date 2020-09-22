@@ -1,0 +1,31 @@
+.text-center {
+    text-align: center;
+}
+
+.home-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.home-page .blog {
+    max-width: 100%;
+    width: 400px;
+    margin: auto 15px;
+}
+
+.home-page .blog img {
+    max-width: 100%;
+    width: 400px;
+}
+
+.blog-page {
+    max-width: 100%;
+    width: 800px;
+    margin: auto;
+}
+
+.blog-page img {
+    max-width: 100%;
+    width: 800px;
+}
